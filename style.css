@@ -1,0 +1,28 @@
+.brand {
+    color: rgb(226, 26, 26);
+    font-size: 50px;
+
+}
+
+li {
+    padding-bottom: .5rem;
+    margin-bottom: 5px;
+    background-color: red;
+    max-width: 75px;
+
+   
+}
+
+
+.testimonial {
+    background-color: rgb(255, 238, 0);
+}
+
+footer {
+    background-color: beige;
+}
+
+body {
+  display:flex;  
+  flex-direction: column;
+}
